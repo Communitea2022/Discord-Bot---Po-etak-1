@@ -14,4 +14,4 @@ async def on_ready():
 async def hello(ctx):
     await ctx.send("Zdravo")
 
-client.run("OTM1MjM2MDkyMjU5NjE0Nzgw.Ye7sfA.I9CRtEpTmN8g8Yq3JLurFmRfuH0")
+client.run("VAS DISCORD TOKEN")
